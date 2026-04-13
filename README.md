@@ -3,9 +3,14 @@
 This repo is the dedicated workspace for the **Deconstructing Bias** paper.
 
 ## Repo structure
-- `requirements.md` — assignment requirements and rubric summary
-- `working_tracker.md` — **current working tracker** for the paper (distinct from older trackers in the main course repo)
-- `draft.md` — current paper draft
+- `draft1/` — current working materials for review
+  - `README.md`
+  - `requirements.md`
+  - `working_tracker.md`
+  - `draft.md`
+- `draft2/` — next revision pass / moved-forward files
+  - `README.md`
+  - `step1_topic_selection.md`
 
-## Important note
-This repo keeps the current working materials separate from older planning/tracker files in the main `EDU442` repo. The goal is to avoid confusing earlier tracker versions with the current writing workflow.
+## Working flow
+All new work from this session lives in `draft1/` so it stays separate from older files and is easy to review before anything gets promoted.
