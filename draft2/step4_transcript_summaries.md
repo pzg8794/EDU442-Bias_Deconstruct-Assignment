@@ -11,163 +11,101 @@
 ### 1. `2026-03-23 Lecture_ Social Class, Systemic Inequity, and Pedagogy`
 **Date:** March 23, 2026 | **Format:** College seminar / EDU course
 
-**Summary:**  
-A pre-service teacher education seminar facilitated by two instructors (Speakers 1 & 3) with graduate students discussing social class, economic mobility, and structural inequity in education. The session opened with personal autobiographical sharing about class identity and family financial experience, then moved into a gallery walk of structured prompts. Discussion covered how class shapes student experience, the limits of standardized testing, the systemic underfunding of schools, and the structural barriers students from lower-SES backgrounds face in completing academic tasks.
+**Summary for this paper:**  
+A pre-service teacher education seminar facilitated by two instructors (Speakers 1 & 3) with graduate students discussing social class, economic mobility, and structural inequity in education. The session opened with personal autobiographical sharing about class identity and family financial experience — students described class as shifting, carried, and largely hidden from children. The discussion then moved through a gallery walk of structured prompts covering: how class shapes student experience and what tasks students can complete at home; the limits and class-embeddedness of standardized testing; systemic underfunding of schools; the reproduction of class stratification through AP vs. non-AP tracking; and inquiry-based learning as an asset-based alternative. The session ended with a role-play scenario exploring compliance-teaching vs. learning-teaching. This transcript is the structural and theoretical backbone for the entire paper — it names the mechanisms the paper observes in practice.
 
-**Key quotes and moments for the paper:**
+**Key quotes for the paper:** See `step4_transcript_quotes.md` → quotes A1–A3, B3–B7, C4–C5, D1–D3.
 
-- On class asymmetry in assignments:  
-  > *"I would never count that against her, but like that's then someone else was just like, well, I just have the poster... It was different quality... Those kinds of things, when you ask — you have to think about what you're asking them to do and how may class be an advantage to some students or a disadvantage to others?"*  
-  *(~12:18 mark)*
-
-- On how assessments sort by class, not ability:  
-  > *"It may not be that one kid is just better than another. But... what we're asking them to do is second class in education."*  
-  *(~13:16 mark — context: Regents exam essay on a story referencing a fur coat; students from lower SES backgrounds didn't have the cultural touchstone)*
-
-- On the school system as designed for one type of student:  
-  > *"The school system is designed to reward a certain type of person who thinks a certain type of way... people have to conform to what this education system wants."*  
-  *(~36 min mark)*
-
-- On the classroom-level reproduction of tracking bias (re: AP vs. non-AP):  
-  > *"I've had a lot of teachers be like, 'Oh, you know, this is an AP class, you should know better.' Or in the non-AP class: 'You know, the AP class would go over this, we're going to skip it.'"*  
-  *(~48:19 mark)*  
-  Also: *"Students who need that support don't receive it because there's physical boundaries between those AP classes and other classes."*
-
-- On ICT classrooms and how teachers speak about students:  
-  > *"I'm seeing it a lot in the way that teachers talk about students in ICT rooms... I see it in the classroom right in front of them, I see it behind closed doors... And uh, it's very depressing, especially when it seems like the culture."*  
-  *(~1:03:54 mark)*  
-  > *"You'll hear them repeat the things that teachers say about them behind closed doors to themselves when they get frustrated."*  
-
-- On money and school security vs. educational investment:  
-  > *"Every dollar that you spend on something is something you can't use for something else... every time you spend on school security, you are taking that away from something else."*  
-  *(~1:20:16 mark)*
-
-- On inquiry-based learning as an asset-based alternative:  
-  > *"Treat your kids like they are agents. Give them some agency to go find out — what is the big problem? How can you fix it? Be shocked at what they come up with."*  
-  *(~56:44 mark)*
-
-- On class mobility and identity carrying:  
-  > *"On paper, class can change... but certain things are hard to break. So no matter what, a piece of you is still — you still bring a part of it with you."*  
-  *(~4:09 mark)*
-
-**Relevance to paper:** VERY HIGH. This is the structural backbone for Sections 3 and 4. Directly supports the argument that behavioral stereotypes are entangled with class-based assumptions about what students are assumed to bring, and what the education system is designed to reward.
+**Relevance:** VERY HIGH. Directly supports Sections 2, 3, 4, and 5.
 
 ---
 
-### 2. `2026-04-06 Lecture_ Teacher Coaching, Peer Review, and AI in Education`
-**Date:** April 6, 2026 | **Format:** Pre-service teacher seminar (small group artifact review)
+### 2. `260312-grade-4-baris-agent-challenge` (March 12, 2026)
+**Format:** Grade 4 classroom — Minecraft agent coding challenge
 
-**Summary:**  
-Pre-service teachers reviewed one another's teaching artifacts — rubrics, student work samples, and written commentary — in a structured peer-review protocol. Discussion covered how rubrics can inadvertently create or close equity gaps, the difference between assessing student content knowledge vs. assessing task design, and how scaffolding choices shape student success. Also included informal check-ins about teaching placement experiences.
+**Summary for this paper:**  
+A grade 4 session in which students worked on a structured coding challenge using Minecraft agents. The session is analytically central to this paper because it is the primary site of the behavioral observations being reflected on. Student frustration escalated progressively — not because students were disengaged from learning but because the task required navigating multiple failure points: unclear agent movement syntax, authentication issues mid-session, and limited immediate feedback from the teacher during the coding phase. Students verbalized frustration ("I'm gonna lose it," "I literally don't get it"), moved off-task, and some began socializing — all behaviors that could be (and in teacher discourse often are) read as disinterest or inability. However, the transcript also captures students explaining concepts to each other, revisiting problems after a break, and independently self-correcting. The behavioral escalation is contextual and temporary; the underlying curiosity and computational thinking are persistent.
 
-**Key quotes/moments for the paper:**
+**Key quotes for the paper:** See `step4_transcript_quotes.md` → quotes B1, B2, C1.
 
-- On equity in rubric design and how student output reflects instructional design, not just ability:  
-  > *"The setup with a good opportunity to show their understanding... you gave them no choice but to know that... in a positive way."*  
-  *(~22 min mark — on how a well-structured task architecture ensures students can demonstrate knowledge they might not express in writing)*
-
-- On the shared nature of classroom struggle across content areas:  
-  > *"I was a little bit surprised how many struggles we had in common even though we had different fields of expertise... how do we retain that engagement? How do we scaffold the lessons enough that they're not getting a handout but actually learning?"*  
-  *(~40:39 mark)*
-
-- On the difference between compliance-teaching and learning-teaching:  
-  > *"Is this about control or is it about learning? Because I'm asking you for help with a math assignment — that's about learning. You're shutting us down."*  
-  *(~1:49 mark, scenario role-play debrief)*
-
-**Relevance to paper:** MEDIUM-HIGH. Useful for Section 5 (Implications for Practice) and for grounding the argument that pedagogical choices — rubric design, scaffolding structure, task architecture — determine much of what gets read as student success or failure.
+**Relevance:** VERY HIGH. The primary classroom observation transcript. Core evidence for Section 3.
 
 ---
 
-### 3. `2026-04-07 Managing Immediate Human Needs Amidst Systemic and Technical Frustrations`
-**Date:** April 7, 2026 | **Format:** Classroom observation / reflective note
+### 3. `260312-grade-4-baris-game-based-learning` (March 12, 2026)
+**Format:** Grade 4 classroom — game-based learning session
 
-**Summary:**  
-Captures a session where technical failures (network issues, account authentication failures) collided with classroom management challenges. Students and teacher both frustrated by conditions outside their control. Observations on how student behavior escalated not because of student character but because the instructional environment broke down.
+**Summary for this paper:**  
+A session structured around game-based learning principles. Students demonstrated sustained engagement, self-directed exploration, and intrinsic motivation in a way that stood in direct contrast to sessions with rigid compliance requirements. The transcript documents moments of spontaneous problem-solving, collaborative strategy discussion, and student-initiated depth — students asking "what if" questions, testing hypotheses about game mechanics, and teaching each other. Notably, students who had been labeled behaviorally challenging in other sessions were consistently on-task and focused here. This contrast is analytically important: the same students, different task design, dramatically different behavioral and cognitive outcomes.
 
-**Key moments for the paper:**
-- The transcript directly illustrates the core claim: student behavior (frustration, disengagement, noise) was produced by broken instructional infrastructure, not by fixed student traits.  
-- Students who were "off-task" were off-task because the task had become impossible to do, not because they chose to disengage.
+**Key quotes for the paper:** See `step4_transcript_quotes.md` → quote C1 (continuation), C4 framing.
 
-**Relevance to paper:** MEDIUM. Supports the argument in Section 3 that behavior is contextual, not fixed. Good secondary evidence.
+**Relevance:** HIGH. Supports Section 4 (assets) and Section 5 (implications — what happens when pedagogy matches student strengths).
 
 ---
 
-### 4. `2026-04-07 Live Session Breakdown_ Account Authentication Conflicts, Network Instability, and Unaligned Grade Scheduling`
-**Date:** April 7, 2026 | **Format:** Observational / incident note
+### 4. `260303-grade-4-baris-event-sensors` (March 3, 2026)
+**Format:** Grade 4 classroom — event/sensor coding
 
-**Summary:**  
-Documents a session that broke down due to authentication conflicts (students could not log into accounts), network instability, and scheduling mismatches between grade levels. Short but analytically important.
+**Summary for this paper:**  
+Students worked on coding event-triggered sensor responses — a more complex task requiring sequential logical thinking. The transcript captures a student debugging strategy that went unrecognized: a student who narrated each step aloud while working through a broken loop, self-correcting mid-narration before asking for help. This verbal debugging is a sophisticated metacognitive strategy — essentially externalizing the computational trace — but because it looked like "talking to themselves" it was initially interpreted as off-task behavior. The moment is a clear example of funds of knowledge (Moll et al.) being invisible to a deficit-framed observer.
 
-**Key moments for the paper:**
-- In this session, the behavioral and participation problems were entirely traceable to systemic/technical failures, not to students.  
-- Illustrates how quickly institutional failures get misread as student failures.
+**Key quotes for the paper:** See `step4_transcript_quotes.md` → quote C2.
 
-**Relevance to paper:** MEDIUM. Compact illustration of structural vs. individual attribution.
+**Relevance:** HIGH. Core evidence for Section 4.
+
+---
+
+### 5. `260309-grade-4-baris-minecraft-loops` (March 9, 2026)
+**Format:** Grade 4 classroom — loops and iteration coding
+
+**Summary for this paper:**  
+A session on loop structures in Minecraft Education Edition coding. The transcript documents an emergent peer-teaching network: once one student grasped the loop logic, they began explaining it to nearby classmates without being asked — using spatial and game-world language ("it's like when you make your guy go back to where it started") that the formal lesson had not provided. Within minutes, a cluster of students were guiding each other through the pattern. This is collaborative scaffolding — Vygotskian zone of proximal development happening spontaneously, in student-generated language. The teacher did not initiate or structure this; students did. It is a direct observable demonstration of the peer-teaching asset that deficit framing systematically fails to see.
+
+**Key quotes for the paper:** See `step4_transcript_quotes.md` → quote C3.
+
+**Relevance:** HIGH. Strong evidence for Section 4 (assets) and Section 5 (peer learning structures as a practice move).
 
 ---
 
 ## 🟡 Tier 2 — Contextually Useful (background and texture)
 
-### 5. `2026-03-19 Meeting_ K–12 AI Integration, Device Lifecycle, and District Tech Initiatives`
-**Date:** March 19, 2026 | **Format:** Administrative / tech planning meeting
+### 6. `2026-04-06 Lecture_ Teacher Coaching, Peer Review, and AI in Education`
+**Date:** April 6, 2026 | **Format:** Pre-service teacher seminar
 
-**Summary:**  
-District-level or school-level meeting about technology access, device lifecycle, and how tech access is distributed across schools. Reveals structural inequities in which schools and students receive updated vs. outdated devices.
+**Summary for this paper:**  
+Pre-service teachers reviewed one another's teaching artifacts in a structured peer-review protocol. Discussion covered how rubrics can inadvertently create or close equity gaps, the difference between assessing student content knowledge vs. assessing task design, and how scaffolding choices shape student success. Key moment: a role-play debrief where a participant articulated the core compliance-vs.-learning tension that runs through the paper's Section 3 argument.
 
-**Relevance to paper:** LOW-MEDIUM. Background context for why tech-mediated learning creates unequal conditions. Not directly quotable in the paper but useful framing for understanding why technical breakdowns in the classroom are not neutral events.
-
----
-
-### 6. `2026-03-23 Meeting_ Rubric Refinements, Feedback Calibration, and Minecraft CS Lesson Design`
-**Date:** March 23, 2026 | **Format:** Teacher planning meeting
-
-**Summary:**  
-Focus on rubric design for a Minecraft coding lesson — calibrating feedback, thinking through what student work should look like, and adjusting standards. Discussion about what is fair to expect from students given their scaffolding level.
-
-**Relevance to paper:** LOW-MEDIUM. Connects to the Section 3 argument about how assignment design shapes what gets read as student capability.
+**Relevance:** MEDIUM-HIGH. Supports Section 5 and provides the B3 quote.
 
 ---
 
-### 7. `2026-04-06 Meeting_ Teaching Tools & AI in Education`
-**Date:** April 6, 2026 | **Format:** Planning meeting
+### 7. `2026-04-07 Managing Immediate Human Needs Amidst Systemic and Technical Frustrations`
+**Date:** April 7, 2026 | **Format:** Classroom observation / reflective note
 
-**Summary:**  
-Informal conversation between student teachers about their AI lesson planning. One student teacher describes designing a three-phase AI lesson (brainstorming → structured application → validation), intentionally breaking the task into smaller, manageable steps.
+**Summary for this paper:**  
+Captures a session where technical failures (network issues, account authentication failures) collided with classroom management challenges. Student behavior that escalated (noise, movement, disengagement) was directly traceable to the collapse of the instructional environment — not to student character or disposition. This transcript is compact but analytically powerful: it makes the environment-behavior connection explicit in a single-session arc.
 
-**Key moment:**  
-> *"I purposely suggested to break it into two different lessons... the first one is where they brainstorm — it's so much easier to introduce it to them and they have fun. Second one is a little bit more structured..."*
-
-**Relevance to paper:** LOW-MEDIUM. Practical illustration of scaffolding philosophy that directly contradicts the "some students just can't do it" framing.
+**Relevance:** MEDIUM. Supports Section 3 (behavior is contextual).
 
 ---
 
-### 8. `2026-04-09 Meeting_ Classroom Activities and AI Lesson`
-**Date:** April 9, 2026 | **Format:** Lesson debrief / planning
+### 8. `260313-grade-4-baris-minecraft-signin` (March 13, 2026)
+**Format:** Grade 4 — account authentication session
 
-**Summary:**  
-Debrief of a classroom AI lesson. Discussion about student engagement, what worked, what scaffolding was needed, adjustments for next time. Positive and constructive tone.
+**Summary for this paper:**  
+Session that broke down almost entirely due to authentication failures — students could not log in to Minecraft Education Edition accounts. Documents the behavioral consequences of technical breakdown: students became physically restless, vocal, and began socializing in ways that would register as "off-task" in any observational rubric. But there was literally nothing else for them to do. This is a clean case study in how institutional/technical failures get misread as student failures.
 
-**Relevance to paper:** LOW. General teaching practice context.
-
----
-
-### 9. `2026-04-09 Weekly Meeting_ Lesson Planning and Curriculum Strategy`
-**Date:** April 9, 2026 | **Format:** Weekly planning check-in
-
-**Summary:**  
-Short meeting covering upcoming lessons, scheduling, and curriculum pacing. No strong direct relevance to the bias paper.
-
-**Relevance to paper:** LOW.
+**Relevance:** MEDIUM. Secondary evidence for Section 3.
 
 ---
 
-### 10. `2026-04-10 Lecture_ Classroom Tech, AI, and Lesson Planning`
-**Date:** April 10, 2026 | **Format:** Teaching session
+### 9–11. Additional Grade-4 Planning/Rotation Transcripts
+(`260302-baris-innovation-docs`, `260303-baris-build-rotation`, `260305-baris-minecraft-summary`)
 
-**Summary:**  
-Session about integrating AI tools in classroom tech lessons. Includes discussion of student engagement strategies and how to structure tasks so that all students have an entry point.
+These document the instructional scaffolding and curriculum sequencing across the placement arc. Not directly quotable but provide the context for understanding how the Tier 1 sessions fit into a larger instructional sequence.
 
-**Relevance to paper:** LOW-MEDIUM. Supports asset-based framing.
+**Relevance:** LOW-MEDIUM. Background only.
 
 ---
 
@@ -187,14 +125,20 @@ Session about integrating AI tools in classroom tech lessons. Includes discussio
 | `2026-04-08 Meeting: Classroom Schedule, Observation, Feedback` | Scheduling logistics |
 | `2026-04-09 AI for CS Project Brainstorming` | CS content planning |
 | `2026-04-09 Lego Sail Car Construction` | Hands-on STEM |
+| `2026-04-09 Weekly Meeting_ Lesson Planning and Curriculum Strategy` | Logistics |
 | `2026-04-10 AI Project Brainstorming and Planning` | CS planning |
 | `2026-04-10 Google Classroom Workflow and Minecraft Forces Activity` | Tech workflow logistics |
+| `260317-grade-4-baris-agent-puzzles` | Similar to agent-challenge but less analytically rich |
+| `260317-grade-4-baris-block-one` | Introductory session — limited reflective content |
+| `260318-grade-4-baris-turtle-rescue` | Game activity — no strong bias angle |
+| `260303-grade-4-baris-prison-build` | Short session — minimal content |
 
 ---
 
 ## Usage Notes for Writing
 
-- The **March 23 Social Class seminar** is the only Tier 1 transcript from a course-level reflection context (rather than an elementary classroom). Use it for the structural framing argument, not as an observation of your students.
-- The **grade 4 coding challenge** transcripts (in `grade-4/` subdirectory) are the primary observation transcripts for Sections 2 and 3.
-- **Never name students.** All quotes from elementary classroom transcripts should refer to "a student" or "students" generically.
-- All quotes should be introduced with brief contextual framing ("During a grade 4 coding challenge observation...") so the reader understands the source without identifying anyone.
+- The **March 23 Social Class seminar** is your theoretical anchor. Use it for the structural framing, not as an observation of your students.
+- The **March 12 agent challenge** is your primary classroom observation. It is where the behavioral moment(s) you are reflecting on occurred.
+- The **March 3 event-sensors** and **March 9 loops** transcripts are your asset evidence — use them in Section 4 to show what you came to *see* once the deficit frame was challenged.
+- **Never name students.** All quotes from elementary classroom transcripts → "a student" or "students."
+- All quotes should be introduced with brief contextual framing so the reader understands the source without identifying anyone.
