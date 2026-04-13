@@ -1,32 +1,23 @@
-# Deconstructing Bias — Step 1 Topic Selection
+# Step 1 — Topic Selection
 
-## Status
-- [x] Step 1 completed
-- [x] Group/community identified
-- [x] Specific setting identified
-- [x] Rationale drafted
-- [x] Research question drafted
+## Chosen bias / stereotype
+The idea that certain students are inherently "difficult," "problem students," or "behavior problems" — that their visible frustration, noise, or resistance is evidence of fixed character traits rather than contextual responses.
 
-## Group/community being observed
-Students in my elementary practicum classroom at **Pine Brook Elementary School**.
+## Chosen community / observation setting
+Grade-4 elementary classroom at Pine Brook Elementary (teaching practicum placement). Primary evidence: March 12, 2026 Minecraft Education coding challenge transcript.
 
-## Specific setting
-**In-person classroom instruction and small-group support** during my teaching placement, using de-identified transcripts of classroom interactions.
+## Why this setting
+- I have direct access via my practicum role — no additional access negotiation needed
+- The transcript captures real confusion, frustration, and re-engagement in a live lesson
+- The setting is concrete and specific rather than reconstructed from memory
 
-## Why this group/setting was chosen
-I chose this group and setting because I already have real observational material from my teaching placement rather than needing to invent or reconstruct an observation. It directly connects to my future work as an educator — the assignment asks me to reflect on how my assumptions shape practice in a real educational setting.
+## Research / guiding question
+**How does observing students who might otherwise be labeled as difficult or off-task challenge the stereotype that behavior problems are fixed traits rather than responses to confusion, frustration, and insufficient support?**
 
-## Draft research question
-How does observing students who might otherwise be labeled as difficult or off-task challenge the stereotype that behavior problems are fixed traits rather than responses to confusion, frustration, and insufficient support?
+## Central claim
+What looks like "bad behavior" is often better understood as a contextual response to unclear expectations, cognitive overload, time pressure, or insufficient instructional support. When instructional conditions change, student behavior changes too.
 
-## Working anonymization note
-In the paper, the site should be described as **"my elementary practicum placement"** or **"my placement school"** rather than by school name. Students should be referred to generically and all names or identifying details should be removed from transcript excerpts.
-
-## Why this is a strong fit for the assignment
-- Uses an already existing body of observational material
-- Keeps the setting directly tied to future professional practice
-- Allows the paper to remain appropriately anonymous while still being meaningful
-- Keeps the focus on reflection, interpretation, and deconstructing assumptions
-
-## Next step
-Expand the working draft (`draft.md`) into a full 5–7 page paper with transcript evidence and course citations.
+## Course readings to connect
+- Annamma, Connor, & Ferri (2013) — DisCrit: how schools classify and sort students
+- Talusan (2022) — identity-conscious teaching practice
+- hooks (1994) — relational, humanizing pedagogy

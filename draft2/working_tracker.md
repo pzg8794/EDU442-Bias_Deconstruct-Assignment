@@ -1,72 +1,40 @@
-# Deconstructing Bias — Working Tracker
+# Working Tracker — Deconstructing Bias
 
-> **Assignment due:** Monday, April 13, 2026  
-> **Points:** 25 | **Length:** 5–7 pages + citations  
-> **Status:** Writing phase — working draft exists, needs expansion
+## Current Step: 3 — Writing / Expanding Draft
 
 ---
 
-## Status snapshot
-- [x] Requirements doc available
-- [x] Topic and scope finalized
-- [x] Bias focus finalized
-- [x] Observation work documented
-- [x] Writing plan drafted
-- [x] Working draft created (`draft.md`)
-- [ ] Full 5–7 page paper completed
-- [ ] Citations finalized in APA
-- [ ] Final proofread completed
-- [ ] Submission completed
+## Progress Log
+
+| Date | Work Done |
+|------|----------|
+| April 12 | Topic locked, observation chosen (March 12 transcript) |
+| April 12 | Outline built, REQUIREMENTS.md created |
+| April 12 | LaTeX skeleton (main.tex) created |
+| April 12 | Full working draft written (all 6 sections) |
+| April 13 | Repo cleaned, all files moved to draft2/ |
 
 ---
 
-## 1. Topic and scope
+## Milestone Checklist
 
-**Observed group/community:** Students in my elementary practicum classroom at Pine Brook Elementary School.
-
-**Specific setting:** In-person classroom instruction during my teaching placement, documented through transcripts in the teaching-placement repository.
-
-**Working research question:** How does observing students who might otherwise be labeled as difficult or off-task challenge the stereotype that behavior problems are fixed traits rather than responses to confusion, frustration, and insufficient support?
-
----
-
-## 2. Bias focus
-
-**Bias being examined:** The stereotype that certain students are inherently "behavior problems," "difficult," or "unmotivated," rather than students responding to unclear expectations, cognitive overload, or insufficient support.
+- [x] Step 1 — Topic & community selected
+- [x] Step 2 — Outline & structure planned
+- [x] Step 3 — Working draft written
+- [ ] Step 4 — Transcript quotes integrated
+- [ ] Step 5 — Course readings cited (APA)
+- [ ] Step 6 — Conclusion written
+- [ ] Step 7 — Full 5–7 page version complete
+- [ ] Step 8 — LaTeX final version in main.tex
+- [ ] Step 9 — Submitted
 
 ---
 
-## 3. Observation logistics
+## Pre-Submission Checklist
 
-- **Mode:** In-person
-- **Date(s):** Primary focal evidence from March 12, 2026 grade-4 Minecraft workshop transcript
-- **Location:** Pine Brook Elementary School
-- **Access:** Part of normal student-teacher role in the placement
-- **Ethics:** Avoid student names; refer to students generically
-
-**Evidence source:** Teaching-placement repo, branch `teaching_placement_shared`  
-**Focal transcript:** `transcripts/grade-4/260312-grade-4-baris-agent-challenge.md`
-
----
-
-## 4. Writing plan
-
-| Section | Status |
-|---|---|
-| Introduction | drafted |
-| Autobiographical section | drafted |
-| Description of research | drafted |
-| Myth vs. Reality / analysis | drafted |
-| Assets / funds of knowledge | drafted |
-| Course reading integration | planned |
-| Mechanics / APA | pending |
-
----
-
-## 5. Next milestones
-- [ ] Expand working draft into full 5–7 page paper
-- [ ] Pull 2–3 direct transcript moments into Myth vs. Reality section
-- [ ] Add 3–4 course citations (Annamma, Talusan, hooks)
-- [ ] Finalize title and conclusion
-- [ ] APA references list
-- [ ] Final proofread and submit
+- [ ] 5–7 pages minimum
+- [ ] At least 3 course reading citations
+- [ ] APA references list at end
+- [ ] No student names used
+- [ ] Positionality / autobiographical section is personal and specific
+- [ ] Conclusion addresses future practice
