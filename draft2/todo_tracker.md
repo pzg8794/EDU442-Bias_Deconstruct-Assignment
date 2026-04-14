@@ -1,30 +1,32 @@
-# TODO — Deconstructing Bias Assignment
+# TODO — Deconstructing Bias (Single Tracker)
 
-## Status: Step 3 — Writing Phase
+This is the single TODO tracker for finishing the paper.
 
----
+## Canonical files
 
-## Immediate Tasks (due April 13)
+- Requirements: `REQUIREMENTS.md`
+- Paper source (LaTeX): `main.tex`
+- Compile output (local): `main.pdf`
 
-- [ ] Expand draft.md to full 5–7 pages
-- [ ] Add 2–3 direct transcript quotes in Myth vs. Reality section
-- [ ] Integrate Annamma, Talusan, hooks citations (APA in-text)
-- [ ] Write conclusion section
-- [ ] Build full References list in APA format
-- [ ] Sync final draft into main.tex for Overleaf submission
+## Current status
 
----
+- [x] Merge best-of-both drafts into one submission-ready `main.tex`
+- [x] Complete the two missing references (Fine 2016; Flynn 2024) everywhere
+- [x] Compile successfully with `latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex`
 
-## Completed
+## Final checks (finish + review)
 
-- [x] Chose topic: stereotypes of "problem students"
-- [x] Chose observation: March 12 Minecraft Education transcript
-- [x] Wrote working Introduction
-- [x] Wrote Autobiographical grounding section
-- [x] Wrote Description of observation section
-- [x] Wrote Myth vs. Reality section (needs quotes)
-- [x] Wrote Assets / funds of knowledge section
-- [x] Wrote Implications for practice section
-- [x] Identified 3 course readings to cite
-- [x] Set up repo and draft2/ directory
-- [x] Created OUTLINE.md, REQUIREMENTS.md, main.tex skeleton
+- [ ] Page count check against the assignment requirement (5–7 pages body; confirm what counts per instructor/syllabus)
+- [ ] APA-ish formatting check: 12pt, 1-inch margins, double-spaced, paginated, centered bold headings
+- [ ] Quote formatting check: any quote $\ge$ 40 words converted to a LaTeX block quote (`\begin{quote}...\end{quote}`)
+- [ ] Proofread the compiled PDF for clarity, flow, and small errors
+
+## Submission
+
+- [ ] Export final PDF and submit to Blackboard
+
+## If needed (only if you want to push)
+
+- [ ] `git status` is clean in the assignment repo
+- [ ] Changes committed/pushed in the assignment repo
+- [ ] Submodule pointer updated/committed in the EDU442 superproject

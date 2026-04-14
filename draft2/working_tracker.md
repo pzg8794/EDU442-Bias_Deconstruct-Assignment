@@ -1,8 +1,11 @@
-# Working Tracker — Deconstructing Bias Paper (draft2 / Perplexity)
+# Working Tracker — Deconstructing Bias Paper (Archived)
 
-**Last updated:** 2026-04-13 (Mon) ~2:54 AM EDT  
-**Status:** Steps 1–7 ✅ complete — Step 8 paused, resuming tomorrow  
-**Due:** Monday April 13, 2026 (extension being sought if needed)
+**ARCHIVED:** This tracker is preserved for reference only.
+
+Use the canonical tracker instead:
+- `todo_tracker.md`
+
+**Last updated:** 2026-04-13 (Mon) ~2:54 AM EDT
 
 ---
 

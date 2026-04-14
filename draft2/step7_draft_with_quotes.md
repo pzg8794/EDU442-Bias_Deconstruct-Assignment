@@ -57,11 +57,15 @@ Flynn (2024), working within an affirmative non-tragedy model of disability, ext
 
 ### The Reality
 
-My classroom observations challenge the deficit framing directly. During a grade 4 Minecraft agent coding challenge (March 12, 2026), student frustration appeared and escalated — but a close reading of the session reveals that escalation was tightly coupled to the breakdown of the instructional environment, not to student disposition. A student verbalized *"I'm gonna lose it"* — not as an expression of disinterest, but after the task infrastructure had already failed: authentication issues had interrupted the session, the agent movement syntax had not yet been clearly modeled, and students were being asked to hold multiple steps in working memory without intermediate checkpoints.
+My classroom observations challenge the deficit framing directly. During a grade 4 Minecraft agent coding challenge (March 12, 2026), student frustration appeared and escalated — but a close reading of the session reveals that escalation was tightly coupled to the instructional environment, not to student disposition. A student verbalized *"I'm gonna lose it"* — not as an expression of disinterest, but in the middle of a multi-step task with high cognitive load and tight time pressure.
+
+More concretely, teacher talk in the same transcript frames the struggle as procedural and structural, not dispositional. The instructor noted that *"most of you haven't read the directions thoroughly, and that's why you're stuck,"* and immediately clarified that the task required the student and the agent to be standing on two separate gold plates at the same time, with only *"twenty seconds"* to accomplish it. That combination — incomplete access to directions, tight time pressure, and a multi-step spatial task — creates the exact conditions in which frustration and noise are predictable learning responses.
 
 Another student repeated *"I don't get it. I literally don't get it"* — persistent help-seeking that preceded disengagement. The student was not refusing to learn; the support structure was not yet there. As a course instructor noted during the seminar discussion: *"Is this about control or is it about learning? Because I'm asking you for help with a math assignment — that's about learning. You're shutting us down"* (Social Class seminar, April 6, 2026 role-play debrief). The behavioral read is a control problem. The structural read is a scaffolding problem.
 
 The shift that followed the session's instructional reset is the most analytically important moment in the observation. When the task was broken into visible steps, counting was modeled aloud, and teacher presence became more relational — the same students who had appeared frustrated and off-task began to re-engage. They counted. They troubleshot. They helped each other. The behavior changed not because the students changed, but because the conditions changed.
+
+In individual support moments, the teacher slowed the task down through concrete scaffolds: prompting the student to *"count[] the blocks,"* resetting and trying again, and explicitly coaching pace ("don't rush, take your time"). When the student succeeded, the exchange closed with *"You did a good job"* — a small relational move that positions the student as capable rather than deficient.
 
 The course seminar reinforced this from a structural angle. A facilitator reflected: *"It may not be that one kid is just better than another. But... what we're asking them to do is second class in education"* (Social Class seminar, March 23, 2026). The illustration given — a poster project in which one student's elaborate, professionally-supported presentation was read as evidence of ability, while another student's simpler, unsupported version was read as evidence of lesser effort — names exactly the mechanism the behavioral stereotype depends on. When we read only the visible product (or behavior), we infer something about the student. Fine, Greene, and Sanchez (2016) call this the logic of "precarious knowledge" — systems built on stability-assumptions fail students in precarious conditions and then attribute that failure to the student.
 
@@ -87,15 +91,15 @@ A course instructor named this orientation directly: *"Treat your kids like they
 
 This observation changes what I want to do before I assign a label to behavior. Talusan (2022) argues that identity-conscious practice is built from repeatable habits — not grand gestures, but daily routines of noticing and questioning. My practical commitments going forward are:
 
-- **Pause before I categorize.** When I notice a student escalating, frustrated, or disengaged, my first question is: what is the instructional condition that may be producing this? Is the task asking for more than the current scaffold allows? Are the expectations visible?
+First, I want to **pause before I categorize**. When I notice a student escalating, frustrated, or disengaged, my first question should be: what is the instructional condition that may be producing this? Is the task asking for more than the current scaffold allows? Are the expectations visible?
 
-- **Scaffold before I correct.** The coding observation showed clearly that the same students who appeared disruptive became productive learners once the task was broken into smaller, visible steps. That is a pedagogical move, not a discipline move. It should come first.
+Second, I want to **scaffold before I correct**. The coding observation showed clearly that the same students who appeared disruptive became productive learners once the task was broken into smaller, visible steps. That is a pedagogical move, not a discipline move, and it should come first.
 
-- **Watch for class and resource asymmetry.** Following the seminar discussion on systemic inequity (Fine et al., 2016; Desmond, 2021), I want to audit the assignments I give for built-in advantages — tasks that assume students have adult help at home, access to supplies, time, or prior vocabulary exposure that some students simply do not have.
+Third, I want to **watch for class and resource asymmetry**. Following the seminar discussion on systemic inequity (Fine et al., 2016; Desmond, 2021), I want to audit the assignments I give for built-in advantages — tasks that assume students have adult help at home, access to supplies, time, or prior vocabulary exposure that some students simply do not have.
 
-- **Use Talusan's Ch. 7 routines for disability-conscious practice.** The DisCrit lens (Annamma et al., 2013) and Flynn's (2024) affirmative non-tragedy model together require me to actively resist the reflex to treat behavioral or cognitive difference as tragedy or deficit. Language matters. Routine choices matter. I want to build the habit of asking: am I labeling a student, or am I describing a condition?
+Fourth, I want to **use Talusan's Chapter 7 routines for disability-conscious practice**. The DisCrit lens (Annamma et al., 2013) and Flynn's (2024) affirmative non-tragedy model together require me to actively resist the reflex to treat behavioral or cognitive difference as tragedy or deficit. Language matters. Routine choices matter. I want to build the habit of asking: am I labeling a student, or am I describing a condition?
 
-- **Make behavior a data point, not a conclusion.** Student behavior tells me something. It does not tell me everything. The story I construct around a behavior is my interpretation, and interpretations can be revised when I gather more information about conditions.
+Finally, I want to **treat behavior as a data point, not a conclusion**. Student behavior tells me something. It does not tell me everything. The story I construct around a behavior is my interpretation, and interpretations can be revised when I gather more information about conditions.
 
 Nieto (2004) frames this as refusing deficit thinking — the habit of explaining underperformance through student characteristics rather than through structural conditions. hooks (1994) frames it as engaged pedagogy: staying curious about the whole person. Both require an ongoing practice, not a single insight. The course instructor's observation that *"You'll hear them repeat the things that teachers say about them behind closed doors to themselves when they get frustrated"* (Social Class seminar, March 23, 2026) is a reminder that the stakes of this practice are not abstract — they live in students' self-conceptions.
 
@@ -121,9 +125,9 @@ Bell, D. (2018). *Faces at the bottom of the well: The permanence of racism.* Ba
 
 Desmond, M. (2021). Capitalism. In N. Hannah-Jones (Ed.), *The 1619 Project: A new origin story* (pp. 259–306). One World.
 
-Fine, M., Greene, C., & Sanchez, S. (2016). Neoliberal blues and prec(ar)ious knowledge. *[Confirm full citation]*.
+Fine, M., Greene, C., & Sanchez, S. (2016). Neoliberal blues and prec(ar)ious knowledge. *The Urban Review, 48*(4), 499–519. https://doi.org/10.1007/s11256-016-0365-x
 
-Flynn, S. (2024). Critical disability studies and the affirmative non-tragedy model. *[Confirm full citation]*.
+Flynn, S. (2024). Critical disability studies and the affirmative non-tragedy model: Presenting a theoretical frame for disability and child protection. *Disability & Society, 39*(2), 269–290. https://doi.org/10.1080/09687599.2022.2070061
 
 Gonzalez, N., Moll, L. C., & Amanti, C. (Eds.). (2005). *Funds of knowledge: Theorizing practices in households, communities, and classrooms.* Lawrence Erlbaum.
 

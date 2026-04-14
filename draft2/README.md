@@ -1,5 +1,17 @@
-# Draft 2 Placeholder
+# Draft 2 (Canonical)
 
-This directory is reserved for the next revision pass after Draft 1 has been reviewed.
+This folder is the single working drive for the Deconstructing Bias paper.
 
-Use `draft1/` for the current working materials.
+## Use these three files
+
+- `REQUIREMENTS.md` — assignment prompt, rubric, and formatting requirements
+- `todo_tracker.md` — the single tracker for final checks + submission
+- `main.tex` — the submission-ready paper (LaTeX)
+
+## Compile
+
+```bash
+latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
+```
+
+Output: `main.pdf`

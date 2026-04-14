@@ -1,6 +1,6 @@
 # Step 2 – Paper Outline (COMPLETED 2026-04-13)
 
-> **This is the Perplexity-assisted draft (draft2).** The other AI's work lives separately at the root or in draft1/.
+> **This is the working outline for the canonical draft (draft2).**
 > Working title can be tweaked before final submission.
 
 ---

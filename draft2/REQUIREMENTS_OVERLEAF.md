@@ -1,4 +1,9 @@
-# EDU 442 — Deconstructing Bias: Assignment Requirements
+# EDU 442 — Deconstructing Bias: Assignment Requirements (Archived Copy)
+
+**ARCHIVED:** Keep for reference only.
+
+Use the canonical requirements file instead:
+- `REQUIREMENTS.md`
 
 > **Source of truth:** [`pzg8794/EDU442 → Assignments/Deconstructing_Bias/REQUIREMENTS.md`](https://github.com/pzg8794/EDU442/blob/main/Assignments/Deconstructing_Bias/REQUIREMENTS.md)
 > This is a copy kept here for convenience when working in Overleaf.

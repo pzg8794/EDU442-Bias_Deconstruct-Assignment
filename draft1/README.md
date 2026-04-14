@@ -1,4 +1,12 @@
-# Draft 1 Workspace
+# Draft 1 Workspace (Archived)
+
+This folder is preserved for reference.
+
+**Do not continue work here.** The canonical files live in `draft2/`:
+
+- `draft2/REQUIREMENTS.md`
+- `draft2/todo_tracker.md`
+- `draft2/main.tex`
 
 This directory contains **new working files created in this session** for the Deconstructing Bias paper.
 

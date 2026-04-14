@@ -1,4 +1,10 @@
-# Step 8 — Final LaTeX Transfer Checklist
+# Step 8 — Final LaTeX Transfer Checklist (Archived)
+
+**ARCHIVED:** This checklist is preserved for reference only.
+
+Use these canonical files instead:
+- `main.tex` (paper source)
+- `todo_tracker.md` (single tracker)
 
 > **Perplexity draft (draft2).**  
 > `step7_draft_with_quotes.md` is the source of truth. This file tracks the transfer of that content into `main.tex`.

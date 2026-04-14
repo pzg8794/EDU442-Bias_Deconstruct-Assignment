@@ -20,7 +20,7 @@
 **Core claim:** Disability should be framed through an affirmative, non-tragedy lens — as a valued form of human variation, not a deficiency to remediate. This applies directly to any student whose behavior or learning pattern falls outside narrow norms.  
 **Where used in paper:** Section 3 (Myth vs. Reality) — reframing "problem behavior" through an affirmative disability lens challenges the deficit/tragedy default.  
 **Key passage for paper:** Affirmative model rejects deficit narratives in favor of recognizing difference as variation, not pathology.  
-**APA:** Flynn, S. (2024). Critical disability studies and the affirmative non-tragedy model: Presenting a theoretical frame for disability and child protection. *[Journal — confirm full citation from course Drive]*.
+**APA:** Flynn, S. (2024). Critical disability studies and the affirmative non-tragedy model: Presenting a theoretical frame for disability and child protection. *Disability & Society, 39*(2), 269–290. https://doi.org/10.1080/09687599.2022.2070061
 
 ---
 
@@ -61,7 +61,7 @@
 ### 7. Fine, Greene, & Sanchez (2016) — Neoliberal Blues and Prec(ar)ious Knowledge
 **Core claim:** Neoliberal reforms produce precarious conditions that reshape what counts as knowledge and whose knowing is valued. Systems that assume stable resources will fail and blame students.  
 **Where used in paper:** Section 3 — supports the argument that student struggle is often a product of the institutional environment (resource scarcity, austerity), not student capacity.  
-**APA:** Fine, M., Greene, C., & Sanchez, S. (2016). Neoliberal blues and prec(ar)ious knowledge. *[Journal — confirm full citation from course Drive]*.
+**APA:** Fine, M., Greene, C., & Sanchez, S. (2016). Neoliberal blues and prec(ar)ious knowledge. *The Urban Review, 48*(4), 499–519. https://doi.org/10.1007/s11256-016-0365-x
 
 ---
 
@@ -92,9 +92,9 @@ Bell, D. (2018). *Faces at the bottom of the well: The permanence of racism.* Ba
 
 Desmond, M. (2021). Capitalism. In N. Hannah-Jones (Ed.), *The 1619 Project: A new origin story* (pp. 259–306). One World.
 
-Fine, M., Greene, C., & Sanchez, S. (2016). Neoliberal blues and prec(ar)ious knowledge. *[Confirm journal/volume from course materials]*.
+Fine, M., Greene, C., & Sanchez, S. (2016). Neoliberal blues and prec(ar)ious knowledge. *The Urban Review, 48*(4), 499–519. https://doi.org/10.1007/s11256-016-0365-x
 
-Flynn, S. (2024). Critical disability studies and the affirmative non-tragedy model: Presenting a theoretical frame for disability and child protection. *[Confirm journal/volume from course materials]*.
+Flynn, S. (2024). Critical disability studies and the affirmative non-tragedy model: Presenting a theoretical frame for disability and child protection. *Disability & Society, 39*(2), 269–290. https://doi.org/10.1080/09687599.2022.2070061
 
 Gonzalez, N., Moll, L. C., & Amanti, C. (Eds.). (2005). *Funds of knowledge: Theorizing practices in households, communities, and classrooms.* Lawrence Erlbaum.
 
@@ -118,5 +118,5 @@ Talusan, L. (2022). *The identity-conscious educator: Building habits and skills
 - [x] Gonzalez et al. cited in Section 4
 - [x] Bell cited in Section 3 (background)
 - [x] Fine et al. cited in Section 3 (background)
-- [ ] Flynn and Fine — confirm full journal citations from Google Drive before submission
-- [ ] References list transferred to `main.tex`
+- [x] Flynn and Fine — full journal citations confirmed (via DOI/Crossref)
+- [x] References list transferred to `main.tex`

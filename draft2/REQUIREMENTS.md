@@ -1,5 +1,16 @@
 # Deconstructing Bias — Assignment Requirements
 
+## Quick reference
+
+| Field | Details |
+|---|---|
+| **Course** | EDU 442 |
+| **Assignment** | Deconstructing Bias (Reflective Paper) |
+| **Due** | **Monday, April 13, 2026** |
+| **Length** | **5–7 pages** (plus citations/references as required) |
+| **Points** | **25** |
+| **Format** | APA-style formatting: 12pt, 1-inch margins, double-spaced, paginated |
+
 ## Assignment identity
 - **Course:** EDU 442 — Race, Class, Gender, and Disability in American Education
 - **Assignment:** Deconstructing Bias
@@ -16,6 +27,8 @@ Your paper must:
 - critically examine your **own bias/prejudice/stereotypes**
 - be **5–7 pages**
 - include **citations from class readings or digital sources**
+
+Recommended: aim for at least **3–4** course readings cited (or more), unless the instructor prompt/syllabus specifies otherwise.
 
 ## Required thinking questions from the prompt
 - How will you thoughtfully connect with this group?
