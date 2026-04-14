@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# Local-only scratch (not part of report)
+/delete_temp/
+
 # LaTeX build artifacts
 *.aux
 *.bbl
