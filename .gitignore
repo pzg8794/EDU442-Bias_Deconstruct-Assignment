@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.bcf
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Common LaTeX aux lists
+*.lof
+*.lot
+
+# Keep the canonical PDF at repo root (main.pdf) visible; ignore draft outputs
+/draft2/main.pdf

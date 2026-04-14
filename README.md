@@ -2,15 +2,20 @@
 
 This repo is the dedicated workspace for the **Deconstructing Bias** paper.
 
-## Repo structure
-- `draft1/` — current working materials for review
-  - `README.md`
-  - `requirements.md`
-  - `working_tracker.md`
-  - `draft.md`
-- `draft2/` — next revision pass / moved-forward files
-  - `README.md`
-  - `step1_topic_selection.md`
+## Canonical files (what we review/keep)
 
-## Working flow
-All new work from this session lives in `draft1/` so it stays separate from older files and is easy to review before anything gets promoted.
+- `REQUIREMENTS.md` — canonical assignment requirements
+- `todo_tracker.md` — canonical TODO tracker
+- `main.tex` — canonical paper source (LaTeX)
+
+> Draft folders are preserved for now so you can review what was pulled forward into the canonical files.
+> **Do not delete** drafts yet.
+
+## Draft folders (source material; preserved)
+
+- `draft1/` — Draft 1 snapshot and planning materials
+- `draft2/` — Draft 2 working materials (including the previously compiled `draft2/main.pdf`)
+
+## Compile
+
+- `latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex`
